@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Kids-Fashion-Website-Frontend",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../Kids-Frontend/images"
+		}
+	],
+	"settings": {}
+}
